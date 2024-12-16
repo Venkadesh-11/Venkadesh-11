@@ -25,7 +25,8 @@ Welcome to my GitHub profile! I am an aspiring Full Stack Developer with experti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkadesh-developer/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:venkadesh1102@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://venkadesh-11.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/venkat.11._/)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/venkat.11._/)
+
 
 
 Feel free to explore my repository 😊!
