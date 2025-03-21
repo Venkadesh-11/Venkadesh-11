@@ -1,7 +1,6 @@
 ## Hi there, I'm Venkadesh 👋  
 
-
-Welcome to my GitHub profile! I am an aspiring React Developer with expertise in building dynamic and responsive web applications using React, Tailwind CSS, and Bootstrap. Additionally, I have a strong backend foundation in Java and Oracle SQL, enabling me to develop full-stack applications with efficient database management. I am passionate about crafting scalable and user-friendly solutions that seamlessly integrate frontend and backend technologies. 
+**Welcome to my GitHub profile! I am an aspiring React Developer with expertise in building dynamic and responsive web applications using React, Tailwind CSS, and Bootstrap. Additionally, I have a strong backend foundation in Java and Oracle SQL, enabling me to develop full-stack applications with efficient database management. I am passionate about crafting scalable and user-friendly solutions that seamlessly integrate frontend and backend technologies.**
 
 ## About Me
 - 💼 **Aspiring React Developer**
@@ -24,6 +23,7 @@ Welcome to my GitHub profile! I am an aspiring React Developer with expertise in
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkadesh-developer/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Google%20Chrome&logoColor=white)](https://venkadesh-developer.github.io/Venkat.developer/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:venkadesh1102@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/venkat.11._/)
 
