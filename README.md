@@ -1,12 +1,11 @@
-## Hi there, I'm Venkadesh 👋
-Here’s a version tailored for a **React Developer** while still highlighting your backend knowledge:  
+## Hi there, I'm Venkadesh 👋  
 
-**"Welcome to my GitHub profile! I am an aspiring React Developer with expertise in building dynamic and responsive web applications using React, Tailwind CSS, and Bootstrap. Additionally, I have a strong backend foundation in Java and Oracle SQL, enabling me to develop full-stack applications with efficient database management. I am passionate about crafting scalable and user-friendly solutions that seamlessly integrate frontend and backend technologies."**  
 
+Welcome to my GitHub profile! I am an aspiring React Developer with expertise in building dynamic and responsive web applications using React, Tailwind CSS, and Bootstrap. Additionally, I have a strong backend foundation in Java and Oracle SQL, enabling me to develop full-stack applications with efficient database management. I am passionate about crafting scalable and user-friendly solutions that seamlessly integrate frontend and backend technologies. 
 
 ## About Me
-- 💼 **Aspiring Full Stack Developer**
-- 🌱 Currently enhancing my skills in **HTML**, **CSS**, **JavaScript**, **Java**, **SQL**
+- 💼 **Aspiring React Developer**
+- 🌱 Currently enhancing my skills in **React** , **TailWind CSS**, **Bootstrap**, **JavaScript**, **Java**, **SQL**
 - 🎓 Completed a Bachelor's in **Electronics and Communication Engineering**
 
 ## Tools and Languages
