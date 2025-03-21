@@ -1,5 +1,8 @@
 ## Hi there, I'm Venkadesh 👋
-Welcome to my GitHub profile! I am an aspiring Full Stack Developer with expertise in frontend technologies like HTML, CSS, and JavaScript, as well as backend development using Java and Oracle SQL. I focus on building scalable web applications and managing databases effectively. I am eager to leverage my skills in both frontend and backend development to create impactful solutions.
+Here’s a version tailored for a **React Developer** while still highlighting your backend knowledge:  
+
+**"Welcome to my GitHub profile! I am an aspiring React Developer with expertise in building dynamic and responsive web applications using React, Tailwind CSS, and Bootstrap. Additionally, I have a strong backend foundation in Java and Oracle SQL, enabling me to develop full-stack applications with efficient database management. I am passionate about crafting scalable and user-friendly solutions that seamlessly integrate frontend and backend technologies."**  
+
 
 ## About Me
 - 💼 **Aspiring Full Stack Developer**
